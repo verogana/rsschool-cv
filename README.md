@@ -1,2 +1,5 @@
 # rsschool-cv
-Создание CV с помощью языка разметки Markdown
+
+[Markdown CV](https://verogana.github.io/rsschool-cv/cv)
+
+[HTML CV](https://verogana.github.io/rsschool-cv/)
