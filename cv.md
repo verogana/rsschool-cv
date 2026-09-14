@@ -1,5 +1,5 @@
 ## Вероника
-![photo.jpg](photo.jpg)
+<img src="photo.jpg" alt="Моё фото" width="200">
 
 ## Контактная информация
 - Email: uuuveronikauuu@gmail.com
@@ -14,9 +14,11 @@
 - Markdown
 
 ## Примеры кода
+```javascript
 function multiply(a, b) {
   return a * b;
 }
+```
 
 ## Образование
 Окончила Российский университет транспорта по специальности 'Строительство железных дорог, мостов и транспортных тоннелей'.
