@@ -1,12 +1,12 @@
-## Имя Фамилия
-Вероника Очир-Горяева
+## Вероника
+![photo.jpg](photo.jpg)
 
 ## Контактная информация
-GitHub: [verogana](https://github.com/verogana)
 - Email: uuuveronikauuu@gmail.com
+- GitHub: [verogana](https://github.com/verogana)
 
 ## О себе
-Стрессоусточивость, клиентоориентированность, гибкость и адаптивность. Моя цель - обучиться успешно на курсе. 
+Я инженер-строитель, заинтересованный в изучении веб-разработки. Обучаюсь в Rolling Scopes School и надеюсь на успешное прохождение курса!
 
 ## Навыки
 - Git
@@ -14,11 +14,11 @@ GitHub: [verogana](https://github.com/verogana)
 - Markdown
 
 ## Примеры кода
-https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript
-
+function multiply(a, b) {
+  return a * b;
+}
 
 ## Образование
-
 Окончила Российский университет транспорта по специальности 'Строительство железных дорог, мостов и транспортных тоннелей'.
 
 ## Английский язык
